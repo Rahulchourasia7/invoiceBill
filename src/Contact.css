@@ -1,0 +1,16 @@
+
+.contactimg { 
+    mix-blend-mode: darken;
+    height: 700px;
+    width: 800px;
+    position: absolute;
+    top: 5%;
+    left: 5;
+} 
+.contactat {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+} 

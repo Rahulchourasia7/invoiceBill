@@ -1,0 +1,12 @@
+
+.menulist {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding-top: 2rem;
+    padding-left: 70rem;
+    font-size: 20px;
+
+}
+
+
